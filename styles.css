@@ -90,18 +90,4 @@ p, h1, h2, h3, h4, h5, h6 {
     padding: 0 16px;
 }
 
-/* attribution */
-
-.attribution {
-    margin-top: 20px;
-    font-family: 'Outfit-ExtraLight', Arial, sans-serif;
-    font-size: 12px;
-    text-align: center;
-}
-
-.attribution a {
-    color: var(--dark-blue)
-}
-
-
 
